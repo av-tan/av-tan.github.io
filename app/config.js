@@ -1,6 +1,6 @@
 // Your name appears in the top navigation and page titles.
-export const name = "Your Name";
-export const websiteDescription = `${name}'s personal website.`;
+export const name = "Arabella Tan";
+export const websiteDescription = `${name}`;
 
 // Add, remove, or reorder links here. href accepts local paths or external URLs.
 export const navigationLinks = [
@@ -19,7 +19,7 @@ export const ownerProfile = {
   },
   facts: [
     { label: "Now", value: "Your current role or location" },
-    { label: "Studying", value: "What you're studying or working on" },
+    { label: "Studying", value: "Biological Engineering" },
     { label: "Interests", value: "Your main interests" },
     {
       label: "Contact",
